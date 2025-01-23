@@ -1,9 +1,7 @@
 import torch
 from torch import nn
 
-from .pre_weight import PreWeight
-from .graph_learner import GraphLearner
-from .imputation import Imputation
+from layers import PreWeight, GraphLearner,Imputation
 
 class GN2DI(nn.Module):
     def __init__(self, 
