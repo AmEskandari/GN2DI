@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GN2DI
 =======
 # GN2DI: Graph Neural Networks for Data Imputation 🌐
@@ -129,4 +129,4 @@ If you find this work useful in your research, please cite our paper:
 - **Amir Eskandari** - amireskandari@aut.ac.ir
 - **Saeed Jamshidiha** - s_jamshidiha@aut.ac.ir
 - **Vahid Pourahmadi** - v.pourahmadi@aut.ac.ir
->>>>>>> ebe356f (Initial commit)
+
